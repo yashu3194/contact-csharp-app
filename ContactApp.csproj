@@ -4,9 +4,6 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <OutputType>Exe</OutputType>
-    <AssemblyName>ContactApp</AssemblyName>
-    <RootNamespace>ContactApp</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
